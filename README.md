@@ -1,13 +1,13 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm [Ramel Cabug-os] 👋
 
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub followers](https://img.shields.io/github/followers/tearhear18?label=Follow&style=social)](https://github.com/tearhear18)
 
 ## 🚀 About Me
 
 - 🔭 I’m currently working on **[Your Project or Company]**
 - 🌱 I’m currently learning **[Technologies you're learning]**
 - 💬 Ask me about **[Your expertise: e.g. Ruby on Rails, JavaScript, etc.]**
-- 📫 How to reach me: **[Your Email or Contact Info]**
+- 📫 How to reach me: **[tearhear18@gmail.com]**
 - ⚡ Fun fact: **[A fun fact about you]**
 
 ## 🛠️ Languages & Tools
