@@ -1,16 +1,13 @@
-## Hi there 👋
+<img align="right" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1397184289/1cc8dabb6ca735fd3fb62fe111c5facd.png" width="300"/>
 
-<!--
-**tearhear18/tearhear18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello World! | こんにちは世界
 
-Here are some ideas to get you started:
+I'm Ramel, a software developer 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<b>Some phrases I like</b> 
+
+- Programming experience doesn't mean you don't create bugs, it means you recognize them quickly.
+- Nothing in this world beats persistence and determination.
+- First, recognize the problem, then solve the problem, and finally, create the best solution of all.
+
+![](https://komarev.com/ghpvc/?username=ramel-cabug-os&color=blue&style=flat-square&label=PROFILE+VIEWS)
