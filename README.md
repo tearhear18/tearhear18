@@ -4,9 +4,9 @@
 
 ## 🚀 About Me
 
-- 🔭 I’m currently working on **[Your Project or Company]**
-- 🌱 I’m currently learning **[Technologies you're learning]**
-- 💬 Ask me about **[Your expertise: e.g. Ruby on Rails, JavaScript, etc.]**
+- 🔭 I’m currently working on **EasyLodge via RemStaff**
+- 🌱 I’m currently learning **GO, Flutter , Rails 8**
+- 💬 Ask me about **[Your expertise: e.g. Ruby on Rails, Flutter, Go, etc.]**
 - 📫 How to reach me: **[tearhear18@gmail.com]**
 - ⚡ Fun fact: **[A fun fact about you]**
 
@@ -18,15 +18,19 @@
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Web](https://img.shields.io/badge/Web-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+
 
 ## 📊 GitHub Stats
 
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=tearhear18&show_icons=true&theme=radical)
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramel-cabug-os-499916171/)
 
 ---
 ⭐️ From [tearhear18](https://github.com/tearhear18)
