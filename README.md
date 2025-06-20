@@ -1,4 +1,4 @@
-# Hi there, I'm [Ramel Cabug-os] 👋
+# Hi there, I'm Ramel Cabug-os 👋
 
 [![GitHub followers](https://img.shields.io/github/followers/tearhear18?label=Follow&style=social)](https://github.com/tearhear18)
 
