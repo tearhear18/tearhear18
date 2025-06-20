@@ -1,13 +1,32 @@
-<img align="right" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/v1397184289/1cc8dabb6ca735fd3fb62fe111c5facd.png" width="300"/>
+# Hi there, I'm [Your Name] 👋
 
-# Hello World!
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Follow&style=social)](https://github.com/YOUR_GITHUB_USERNAME)
 
-I'm Ramel, a software developer 
+## 🚀 About Me
 
-<b>Some phrases I like</b> 
+- 🔭 I’m currently working on **[Your Project or Company]**
+- 🌱 I’m currently learning **[Technologies you're learning]**
+- 💬 Ask me about **[Your expertise: e.g. Ruby on Rails, JavaScript, etc.]**
+- 📫 How to reach me: **[Your Email or Contact Info]**
+- ⚡ Fun fact: **[A fun fact about you]**
 
-- Programming experience doesn't mean you don't create bugs, it means you recognize them quickly.
-- Nothing in this world beats persistence and determination.
-- First, recognize the problem, then solve the problem, and finally, create the best solution of all.
+## 🛠️ Languages & Tools
 
-![](https://komarev.com/ghpvc/?username=tearhear18&color=blue&style=flat-square&label=PROFILE+VIEWS)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+## 📊 GitHub Stats
+
+![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE)
+
+---
+⭐️ From [tearhear18](https://github.com/tearhear18)
