@@ -2,13 +2,6 @@
 
 [![GitHub followers](https://img.shields.io/github/followers/tearhear18?label=Follow&style=social)](https://github.com/tearhear18)
 
-## 🚀 About Me
-
-- 🔭 I’m currently working on **EasyLodge via RemStaff**
-- 🌱 I’m currently learning **GO, Flutter , Rails 8**
-- 💬 Ask me about **[Your expertise: e.g. Ruby on Rails, Flutter, Go, etc.]**
-- 📫 How to reach me: **[tearhear18@gmail.com]**
-
 ## 🛠️ Languages & Tools
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
