@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning **GO, Flutter , Rails 8**
 - 💬 Ask me about **[Your expertise: e.g. Ruby on Rails, Flutter, Go, etc.]**
 - 📫 How to reach me: **[tearhear18@gmail.com]**
-- ⚡ Fun fact: **[A fun fact about you]**
 
 ## 🛠️ Languages & Tools
 
@@ -31,6 +30,5 @@
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramel-cabug-os-499916171/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tearhear18@gmail.com)
 
----
-⭐️ From [tearhear18](https://github.com/tearhear18)
