@@ -1,4 +1,5 @@
 # Hi there, I'm Ramel Cabug-os 👋
+### I can build, anything web & mobile (ios & android) let's have a coffee?
 
 [![GitHub followers](https://img.shields.io/github/followers/tearhear18?label=Follow&style=social)](https://github.com/tearhear18)
 
